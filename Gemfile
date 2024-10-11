@@ -14,7 +14,7 @@ gem "bootsnap", require: false
 gem "jwt"
 
 # Testing framework
-gem "rspec-rails", '~> 5.0.0'
+gem "rspec-rails", '~> 6.0.0'
 
 # Documentation tool
 gem "yard" # RubyDoc documentation
